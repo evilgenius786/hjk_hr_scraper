@@ -1,2 +1,15 @@
-# hjk_hr_scraper
-Scrapes all entries from hjk.hr
+# hjk.hr Scraper
+Scrapes all entries from hjk.hr. <br>
+<br>
+Requirements:<br>
+1. requests
+2. lxml
+3. openpyxl
+4. bs4
+
+Features: <br>
+[+] Multithreaded (Thread count: {threadcount})<br>
+[+] Without browser<br>
+[+] Super fast<br>
+[+] Resumable<br>
+[+] Check duplicate<br>
